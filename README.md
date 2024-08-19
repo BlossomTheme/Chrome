@@ -1,7 +1,11 @@
-# Blossom Theme for [App/Service/etc... Name]
+# Blossom Theme for Chrome
 
 ## Preview
-> Add Screenshots of the theme
+![](./screenshot01.png)
 
 ## Installation
-> Add the method to install the theme.
+1. Clone the repo or download the ```.crx``` file.
+2. go to ```chrome://extensions/``` and enable Developer Mode by toggling the switch in the top right.
+3. Then drag the ```.crx``` file onto the page and you should see a “Drop to install” popup. 
+4. Then press ```Add theme```.
+5. Enjoy!
